@@ -29,7 +29,7 @@ do que ZERO e solicitar um novo valor.
 			leia(v2)
 			escreva("\n")		
 			
-			enquanto(v2<=0){	
+			enquanto(v2<=0){  
 				escreva("O valor informado deve ser maior do que 0, favor informar novo valor: ")		
 				leia(v2)
 			}
@@ -46,7 +46,7 @@ do que ZERO e solicitar um novo valor.
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 866; 
+ * @POSICAO-CURSOR = 867; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
