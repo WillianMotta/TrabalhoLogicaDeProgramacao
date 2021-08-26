@@ -38,10 +38,9 @@ programa
 		u.aguarde(1000)
 		limpa()
 		escreveCaracter()
+		escreva("\n\t\t\tSERRATEC\n")
 		
 		para(inteiro i = 0; i < u.numero_elementos(vetorAluno); i++){
-			escreva("\n\t\t\tSERRATEC\n")
-			
 			escreva("\nAluno: ",vetorAluno[i]," com notas ", vetorN1[i]," e ",vetorN2[i]," a média foi ",media[i])
 			se(media[i] >= 6.0){
 				escreva(", Aprovado!\n")
@@ -71,7 +70,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 188; 
+ * @POSICAO-CURSOR = 107; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {vetorAluno, 11, 9, 10}-{vetorN1, 12, 7, 7}-{vetorN2, 12, 37, 7}-{media, 12, 67, 5};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
