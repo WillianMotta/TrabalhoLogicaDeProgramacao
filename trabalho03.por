@@ -4,10 +4,10 @@ programa
 	
 	funcao inicio()
 	{
-		const inteiro  TAMANHO_DO_VETOR_ALUNO = 3, 
-					TAMANHO_DO_VETOR_N1= 3, 
-					TAMANHO_DO_VETOR_N2 = 3, 
-					MEDIA = 3
+		const inteiro  TAMANHO_DO_VETOR_ALUNO = 10, 
+					TAMANHO_DO_VETOR_N1= 10, 
+					TAMANHO_DO_VETOR_N2 = 10, 
+					MEDIA = 10
 		cadeia vetorAluno[TAMANHO_DO_VETOR_ALUNO]
 		real vetorN1[TAMANHO_DO_VETOR_N1], vetorN2[TAMANHO_DO_VETOR_N2], media[MEDIA]
 		inteiro c = 0,p = 1
@@ -70,7 +70,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1023; 
+ * @POSICAO-CURSOR = 107; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {vetorAluno, 11, 9, 10}-{vetorN1, 12, 7, 7}-{vetorN2, 12, 37, 7}-{media, 12, 67, 5};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
